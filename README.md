@@ -6,3 +6,9 @@
 "We use handheld calculators to check our math and then prepare pre-feed tanks with the exact mixture" -Starfleet
 
 "We can tell to atom how much gas goes into the mixture tank with an in-line meter that calculates the electrical current which the passing gas creates. The voltage of a gas tank tells us how many gas molecules are in the tank. This is how we prevent ourselves from dying." -Starfleet
+
+"This is what you would call a warp drive. We stear with Nitrous Oxide thrusters alon the sides of our ships" -Starfleet
+
+"Have you tried getting Gundam moon to build you a rudder system" -Cory Andrew Hofstad
+
+"You know? One day I will" -Starfleet
